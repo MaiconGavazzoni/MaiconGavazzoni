@@ -5,9 +5,11 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Aqui você encontra
 
 <p align="center"> 
    <!-- React Native -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50"/>
-<br/>
-<strong>React Native</strong>
+<>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50"/>
+   <br/>
+   <strong>React Native</strong>
+</>
   <!-- Next.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50"/>
   
