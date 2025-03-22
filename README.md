@@ -5,11 +5,14 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Aqui você encontra
 
 <p align="center"> 
    <!-- React Native -->
-<div>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50"/>
-   <br/>
-   <strong>React Native</strong>
-</div>
+<!-- Expo -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Expo_logo.svg" width="50" height="50"/>
+  
+  <!-- Android -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Android_logo_2019.png" width="50" height="50"/>
+  
+  <!-- iOS -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/IOS_logo.svg" width="50" height="50"/>
   <!-- Next.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50"/>
   
