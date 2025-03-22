@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-🚀 Bem-vindo ao meu GitHub!
-Sou um desenvolvedor apaixonado por tecnologia e inovação. Aqui você encontrará projetos relacionados a desenvolvimento web, mobile e integração de sistemas industriais.
+🚀 Welcome to my GitHub! 
+I'm a developer passionate about technology and innovation. Here you will find projects related to web development, mobile development, and industrial systems integration.
 
 <p align="center"> 
 
