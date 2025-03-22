@@ -23,8 +23,8 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Aqui você encontra
   <img src="https://img.shields.io/badge/-MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" width="100" height="50"/>
 </p>
 
-📩 gavazzonimaicon@hotmial.com
-🗺️ Caxias do Sul - RS / BR
+📩 gavazzonimaicon@hotmail.com </br>
+🗺️ Caxias do Sul - RS / BR </br></br>
 
 Never stop learning 💻
 <!--
