@@ -4,6 +4,17 @@
 Sou um desenvolvedor apaixonado por tecnologia e inovação. Aqui você encontrará projetos relacionados a desenvolvimento web, mobile e integração de sistemas industriais.
 
 <p align="center"> 
+   <!-- React Native -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
+  
+  <!-- Next.js -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50"/>
+  
+  <!-- Firebase Cloud Messaging -->
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" height="50"/>
+  
+  <!-- Pusher -->
+  <img src="https://avatars.githubusercontent.com/u/739550?s=200&v=4" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/> 
