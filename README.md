@@ -23,9 +23,11 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Aqui você encontra
   <img src="https://img.shields.io/badge/-MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" width="100" height="50"/>
 </p>
 
+📩 gavazzonimaicon@hotmial.com
+🗺️ Caxias do Sul - RS / BR
 
-**MaiconGavazzoni/MaiconGavazzoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Never stop learning 💻
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -36,4 +38,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
