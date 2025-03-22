@@ -4,14 +4,8 @@
 Sou um desenvolvedor apaixonado por tecnologia e inovação. Aqui você encontrará projetos relacionados a desenvolvimento web, mobile e integração de sistemas industriais.
 
 <p align="center"> 
-   <!-- React Native -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Expo_Logo.png" width="50" height="50"/>
-  
-  <!-- Android -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Android_logo_2019.png" width="50" height="50"/>
-  
-  <!-- iOS -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/IOS_Logo.svg" width="50" height="50"/>
+
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/> 
   <!-- Next.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50"/>
   
@@ -20,7 +14,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Aqui você encontra
   
   <!-- Pusher -->
   <img src="https://avatars.githubusercontent.com/u/739550?s=200&v=4" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/> 
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" width="50" height="50"/> 
