@@ -20,7 +20,7 @@ I'm a developer passionate about technology and innovation. Here you will find p
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" width="50" height="50"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="50" height="50"/>
   <!-- Three.js -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Three.js_Logo.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/mrdoob/three.js/master/logo.png" width="50" height="50"/>
   <img src="https://img.shields.io/badge/-MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" width="100" height="50"/>
 </p>
 
