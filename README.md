@@ -5,7 +5,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Aqui você encontra
 
 <p align="center"> 
    <!-- React Native -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" height="50"/>
 <br/>
 <strong>React Native</strong>
   <!-- Next.js -->
