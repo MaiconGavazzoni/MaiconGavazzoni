@@ -9,7 +9,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Aqui você encontra
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" width="50" height="50"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="50" height="50"/> 
-  ![MQTT](https://img.shields.io/badge/-MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+  <img src="https://img.shields.io/badge/-MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" width="50" height="50"/>
 </p>
 
 
