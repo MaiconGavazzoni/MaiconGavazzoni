@@ -27,9 +27,9 @@ I'm a developer passionate about technology and innovation. Here you will find p
 📩 gavazzonimaicon@hotmail.com </br>
 🗺️ Caxias do Sul - RS / BR </br></br>
 
-<p align="center">
+
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maicongavazzoni/)
-</p>
+
 
 Never stop learning 💻
 <!--
