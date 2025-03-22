@@ -28,7 +28,7 @@ I'm a developer passionate about technology and innovation. Here you will find p
 🗺️ Caxias do Sul - RS / BR </br></br>
 
 
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maicongavazzoni/)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maicon-gavazzoni-3648b2120/)
 
 
 Never stop learning 💻
